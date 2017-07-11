@@ -26,7 +26,7 @@ Copy these 3 lines into the HTML file where you want the listing to show up:
       // var BUCKET_URL = 'https://BUCKET.s3-REGION.amazonaws.com';
       // var S3B_ROOT_DIR = 'SUBDIR_L1/SUBDIR_L2/';
       // var S3B_SORT = 'DEFAULT';
-      // var EXCLUDE_FILE = 'index.html';
+      // var EXCLUDE_FILES = ['index.html'];
       // var AUTO_TITLE = true;
       // var S3_REGION = 's3'; // for us-east-1
     </script>
